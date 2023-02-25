@@ -1,0 +1,3 @@
+E:/Dev/Rust/RechargeConverter/recharge_converter/in/
+E:/Dev/Rust/RechargeConverter/recharge_converter/out/
+[a date]
